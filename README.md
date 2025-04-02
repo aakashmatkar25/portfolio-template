@@ -1,4 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+```bash
+npx create-next-app@latest portfolio-website
+```
+
+```bash
+cd portfolio-website
+```
+
+```bash
+npm install gray-matter react-icons date-fns
+```
+
+```bash
+npm install gray-matter react-markdown @types/react-markdown
+```
+
+```bash
+npm install gray-matter react-markdown @types/react-markdown
+```
 
 ## Getting Started
 
