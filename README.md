@@ -1,10 +1,3 @@
-```markdown
-# Modern Portfolio Template (JAMstack)
-
-[![Next.js](https://img.shields.io/badge/Next.js-13.5-blue?logo=next.js)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-blue?logo=tailwind-css)](https://tailwindcss.com/)
-[![JAMstack](https://img.shields.io/badge/JAMstack-Enabled-success)](https://jamstack.org/)
-
 A high-performance portfolio template built with JAMstack architecture, featuring modern web development practices and seamless content management.
 
 ## 🚀 Features
@@ -139,26 +132,6 @@ git commit -m "Add new portfolio section"
 git push origin feature/new-component
 ```
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details
-
----
-
-**Built with ❤️ using JAMstack principles** - [Live Demo](https://your-portfolio.vercel.app)
-```
-
-This README:
-1. Clearly explains JAMstack implementation
-2. Highlights modern web development practices
-3. Provides visual technical documentation
-4. Includes interactive deployment options
-5. Maintains project-specific focus
-6. Offers comprehensive setup guidance
-7. Shows technology decision rationale
-8. Follows best practices for OSS projects
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 ```bash
 npx create-next-app@latest portfolio-website
 ```
